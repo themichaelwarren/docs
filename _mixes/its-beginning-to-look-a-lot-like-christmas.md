@@ -6,7 +6,7 @@ title: It's Beginning To Look A Lot Like Christmas
 
 {% include embed-audio.html src="/docs/assets/mixes/It's Beginning To Look A Lot Like Christmas.mp3" %}
 
-````
+
 1. Boris Karloff - Welcome Christmas
 2. Bing Crosby, Peggy Lee & Danny Kaye - Snow (feat. Trudy Stevens)
 3. Elvis Presley - It's a Wonderful World
@@ -18,4 +18,3 @@ title: It's Beginning To Look A Lot Like Christmas
 9. Kenny Burrell - My Favorite Things
 10. Sven Wunder - Asterism Waltz
 11. Frank Sinatra - Have Yourself a Merry Little Christmas
-```
