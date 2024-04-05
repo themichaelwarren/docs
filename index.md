@@ -3,33 +3,32 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<img class="profile-picture" src="assets/images/mw-coffee.jpeg">
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+My name is Michael Warren（マイケル・ウォーレン）
 
-More specifically, the created site:
+1984年、アメリカ・ミネソタ州生まれ。カリフォルニア大学ロサンゼルス校卒業。2009年に青森県へ。2016年にアレックス・クイーン氏と株式会社Queen & Co.を共同設立。十和田市現代美術館の広報をはじめ、翻訳等の言語サービス、DXによる業務改善事業を手がける。五戸国際ミュージックフェスティバル主催やDJ等、自身の音楽活動も精力的に行なっている。
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+After 19 years in Minnesota, I spent the first half of my 20s in California. I graduated from **[UCLA](http://www.ucla.edu/)** and spent the second half of my 20s in Aomori, in Northern Japan. 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+I currently split my time between Tokyo and Aomori.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
++	**[Queen & Co.](https://www.queenand.co/)** co-founder
++	**[Long Now](http://longnow.org/)** member #3602
++	DJ / Song selector and maker of mixes
++	Music man in a handful of bands
++	Snapping away on **[Instagram](https://instagram.com/themichaelwarren)**
 
-To get started with creating a site, simply:
+-----|-------|--------
+1984–2004 | Minnesota
+2004–2009 | California
+2009–2014 | Aomori
+2015–2016 | Tokyo
+2017–2020 | Tokyo ⇄ Aomori
+2020–2022 | Aomori
+2023– | Tokyo
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+> "How we spend our days is, of course, how we spend our lives.
+What we do with this hour, and that one, is what we are doing.
+A schedule defends from chaos and whim. It is a net for catching days.”
