@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Once Upon A Time
+parent: Mixes
+nav_order: 1
 ---
 {% include image.html src="/docs/assets/images/mixes/ONCE UPON A TIME.JPG" %}
 

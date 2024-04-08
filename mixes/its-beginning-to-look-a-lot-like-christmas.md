@@ -1,6 +1,8 @@
 ---
 layout: home
 title: It's Beginning To Look A Lot Like Christmas
+parent: Mixes
+nav_order: 2
 ---
 {% include image.html src="/docs/assets/images/mixes/it's beginning to look a lot like christmas.jpg" %}
 
