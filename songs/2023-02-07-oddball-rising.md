@@ -1,10 +1,13 @@
 ---
-layout: home
+layout: post
 title: Oddball Rising
+date: 2023-02-07
 picture: images/songs/oddball-rising.jpg
 parent: Songs
 nav_order: 1
 ---
+{% include image.html src="/docs/assets/images/songs/oddball-rising.jpg.jpg" %}
+
 {% include embed-audio.html src="/docs/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
 
 ````
