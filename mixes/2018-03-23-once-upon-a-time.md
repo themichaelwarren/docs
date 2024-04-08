@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Once Upon A Time
 date: 2018-03-23
 parent: Mixes

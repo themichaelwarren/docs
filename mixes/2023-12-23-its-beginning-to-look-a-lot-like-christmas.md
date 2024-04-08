@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: post
 title: It's Beginning To Look A Lot Like Christmas
+date: 2023-12-23
 parent: Mixes
 nav_order: 2
 ---
@@ -8,7 +9,7 @@ nav_order: 2
 
 {% include embed-audio.html src="/docs/assets/mixes/It's Beginning To Look A Lot Like Christmas.mp3" %}
 
-
+`````
 1. Boris Karloff - Welcome Christmas
 2. Bing Crosby, Peggy Lee & Danny Kaye - Snow (feat. Trudy Stevens)
 3. Elvis Presley - It's a Wonderful World
@@ -20,3 +21,4 @@ nav_order: 2
 9. Kenny Burrell - My Favorite Things
 10. Sven Wunder - Asterism Waltz
 11. Frank Sinatra - Have Yourself a Merry Little Christmas
+````
