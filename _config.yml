@@ -17,6 +17,3 @@ just_the_docs:
     songs:
       name: Songs
       nav_fold: true
-    mixes:
-      name: Mixes
-      nav_fold: true
