@@ -2,6 +2,8 @@
 layout: home
 title: Oddball Rising
 picture: images/songs/oddball-rising.jpg
+parent: Songs
+nav_order: 1
 ---
 {% include embed-audio.html src="/docs/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
 
