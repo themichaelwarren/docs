@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Oddball Rising
 date: 2023-02-07
 picture: images/songs/oddball-rising.jpg
