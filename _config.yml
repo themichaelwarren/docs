@@ -3,17 +3,3 @@ description: My docs
 theme: just-the-docs
 
 url: https://themichaelwarren.github.io/docs/
-
-collections:
-  songs:
-    permalink: "/:collection/:path/"
-    output: true
-  mixes:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    songs:
-      name: Songs
-      nav_fold: true
