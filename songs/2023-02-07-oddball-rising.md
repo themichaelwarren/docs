@@ -6,15 +6,14 @@ picture: images/songs/oddball-rising.jpg
 parent: Songs
 nav_order: 1
 ---
-{% include image.html src="/docs/assets/images/songs/oddball-rising.jpg" %}
+![Oddball Rising artwork](/assets/images/songs/oddball-rising.jpg)
+*Somewhere on the Grapevine out of LA, summer 2007*
 
-{% include embed-audio.html src="/docs/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
+{% include embed-audio.html src="/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
 
-{% include song-details.html %}
+## Oddball Rising
 
-````
-ODDBALL RISING
-
+```
 looking in the mirror
 can’t hold it forever
 fingers crossed again

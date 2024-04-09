@@ -12,7 +12,7 @@ Some day soon we all will be together, if the fates allow
 
 {% include embed-audio.html src="/docs/assets/mixes/It's Beginning To Look A Lot Like Christmas.mp3" %}
 
-`````
+```
 1. Boris Karloff - Welcome Christmas
 2. Bing Crosby, Peggy Lee & Danny Kaye - Snow (feat. Trudy Stevens)
 3. Elvis Presley - It's a Wonderful World

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mixes
-nav_order: 4
+title: Bands
+nav_order: 2
 has_children: true
 ---
 
-## Mixes
+## Bands
