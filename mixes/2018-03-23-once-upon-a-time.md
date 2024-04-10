@@ -5,9 +5,9 @@ date: 2018-03-23
 parent: Mixes
 nav_order: 1
 ---
-{% include image.html src="/assets/images/mixes/ONCE UPON A TIME.JPG" %}
+{% include image.html src="/docs/assets/images/mixes/ONCE UPON A TIME.JPG" %}
 
-{% include embed-audio.html src="/assets/mixes/ONCE UPON A TIME.mp3" %}
+{% include embed-audio.html src="/docs/assets/mixes/ONCE UPON A TIME.mp3" %}
 
 ```
 1. Frank Sinatra - Once Upon a Time
