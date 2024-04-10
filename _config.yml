@@ -2,7 +2,7 @@ title: Lopsided Sound
 description: themichaelwarren.com
 theme: just-the-docs
 
-url: "https://themichaelwarren.github.io/docs"  # The base hostname & protocol for your site
+url: "https://themichaelwarren.github.io"  # The base hostname & protocol for your site
 baseurl: "/docs/"  # the subpath of your site, e.g. /blog
 
 
