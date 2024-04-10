@@ -17,7 +17,7 @@ last_modified_date: 2024-04-09
 + Learning about data normalization and database structures
 + Prepping to rebuild the [honyaku.org](https://honyaku.org){:target="_blank"} translator portal using Xano and Wized v2
 + In the middle of month number three of a big sonwriting binge with my Hatsukoi Four bandmates Jake and Koby
-	+ want to start adding more to [songs](/songs) soon
+	+ want to start adding more to [songs](/docs/songs) soon
 + Reassessing my record collection and developing digital listening rituals
 
 
