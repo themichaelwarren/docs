@@ -5,12 +5,12 @@ date: 2023-12-23
 parent: Mixes
 nav_order: 2
 ---
-{% include image.html src="/docs/assets/images/mixes/it's beginning to look a lot like christmas.jpg" %}
+{% include image.html src="/assets/images/mixes/it's beginning to look a lot like christmas.jpg" %}
 
 {: .highlight }
 Some day soon we all will be together, if the fates allow
 
-{% include embed-audio.html src="/docs/assets/mixes/It's Beginning To Look A Lot Like Christmas.mp3" %}
+{% include embed-audio.html src="/assets/mixes/It's Beginning To Look A Lot Like Christmas.mp3" %}
 
 ```
 1. Boris Karloff - Welcome Christmas

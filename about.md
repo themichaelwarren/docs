@@ -5,7 +5,7 @@ nav_order: 5
 last_modified_date: 2024-04-09
 ---
 
-<img class="profile-picture" src="/docs/assets/images/mw-coffee.jpeg">
+<img class="profile-picture" src="/assets/images/mw-coffee.jpeg">
 
 My name is Michael Warren（マイケル・ウォーレン）
 
