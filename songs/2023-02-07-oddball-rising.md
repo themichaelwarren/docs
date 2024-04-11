@@ -6,10 +6,10 @@ picture: images/songs/oddball-rising.jpg
 parent: Songs
 nav_order: 1
 ---
-![Oddball Rising artwork](/docs/assets/images/songs/oddball-rising.jpg)
+![Oddball Rising artwork](/assets/images/songs/oddball-rising.jpg)
 *Somewhere on the Grapevine out of LA, summer 2007*
 
-{% include embed-audio.html src="/docs/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
+{% include embed-audio.html src="/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
 
 ## Oddball Rising
 
