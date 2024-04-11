@@ -9,7 +9,7 @@ nav_order: 1
 
 {% include embed-audio.html src="/assets/mixes/ONCE UPON A TIME.mp3" %}
 
-## Once Upon a Time
+## Once Upon A Time
 
 |Track|Artist|Title|Time|
 |-|-|----------------|-:|
