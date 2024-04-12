@@ -2,7 +2,7 @@
 layout: post
 title: Everyone and Friends and Family
 date: 2009-08-01
-image: /assets/mixes/Everyone and Friends and Family.mp3
+image: /assets/images/mixes/Everyone and Friends and Family.png
 description: Listen up and I'll tell a story about an artist growing old
 parent: Mixes
 nav_order: 1
