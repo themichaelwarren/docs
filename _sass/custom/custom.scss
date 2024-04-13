@@ -10,6 +10,12 @@ body {
 
 @media (min-width: 31.25rem) {
     .site-title {
-        font-size: 1.25rem !important;
+        font-size: 0.7rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .site-title {
+        font-size: 0.8rem !important;
     }
 }
