@@ -27,44 +27,75 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
+  padding: 10px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  margin: 10px;
+  width: 300px;
+  display: block;
+  position: relative;
+  overflow: hidden;
 }
 
 .card {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  width: 300px;
-  margin: 20px 20px 20px 0px;
-  text-align: left!important;
-  color: black!important;
-  border-radius: 10px;
+  position: relative;
+  width: 100%;
+  height: 300px; /* Adjust height as necessary */
   overflow: hidden;
 }
 
 .card img {
   width: 100%;
-  height: 300px;
+  height: 100%;
   object-fit: cover;
+  transition: transform 0.5s ease; /* Smooth transition for zoom effect on hover */
 }
 
-.card h3, .card p {
-  margin: 10px;
+.card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0); /* Semi-transparent overlay for the entire card */
+  padding: 10px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Aligns tags at top and title at bottom */
 }
 
-/* TAGS */
+.mix-title {
+    background: white;
+    color: black;
+    padding-left: 10px;
+}
+
 .tag-container {
-  margin: 0px 0px 0px 10px;
-  text-align: left;
+  align-self: flex-end; /* Positions tags at the top-right */
+}
+
+.title-container {
+  align-self: flex-start; /* Positions title at the bottom */
+  width: 100%; /* Ensures title spans the width of the card */
+  text-align: left; /* Aligns the text to the left */
 }
 
 .tag {
   display: inline-block;
-  background-color: #f4f4f4; /* Light gray background */
-  color: #007bff; /* Bootstrap's primary blue for text, or choose your own */
-  border-radius: 6px; /* Rounded corners */
-  padding: 2px 6px; /* Comfortable padding */
-  margin: 0px 0px 0px 0px;
-  font-size: 0.5em; /* Smaller font size for tag text */
-  font-weight: 600; /* Slightly bolder font to make the tags pop */
-  border: 1px solid #d0d7de; /* Slight border to enhance the "box" effect */
-  text-transform: lowercase; /* Optional: makes all tags lowercase */
+  background-color: #e9ecef;
+  color: #333;
+  border-radius: 5px;
+  padding: 2px 6px;
+  margin: 2px;
+  font-size: 0.5em;
+}
+
+@media (max-width: 768px) {
+  .card-link {
+    width: 100%; /* Full width on smaller screens */
+  }
 }
 
