@@ -16,7 +16,7 @@ has_children: true
         <div class="card-overlay">
           
           <div class="title-container">
-            <p class="fs-2 mix-title"><b>{{ page.title }}</b></p>
+            <p class="fs-2 mix-title"><b>{{ page.title | truncatewords: 7 }}</b></p>
             <div class="tag-container">
             {% for tag in page.tags %}
               <span class="tag fs-1">{{ tag }}</span>

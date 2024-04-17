@@ -4,7 +4,7 @@ title: MAGIC HOUR
 date: 2016-04-01
 parent: Mixes
 image: /assets/images/mixes/magic-hour.png
-description: Come clouds of gray on rainy days, no, nothin' seems to bother me
+description: Time has gone inside out.
 tags: [2016, magic, magic, magic]
 nav_order: 2
 ---
