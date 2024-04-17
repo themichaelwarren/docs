@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Once Upon A Time
+mix: ONCE UPON A TIME
 date: 2018-03-23
 parent: Mixes
 image: /assets/images/mixes/ONCE UPON A TIME.JPG
@@ -12,6 +13,14 @@ nav_order: 3
 {% include embed-audio.html src="/assets/mixes/ONCE UPON A TIME.mp3" %}
 
 ## Once Upon A Time
+
+<ul>
+{% for mix in site.data.mixes %}
+  <li>
+      {{ mix.name }}
+  </li>
+{% endfor %}
+</ul>
 
 |Track|Artist|Title|Time|
 |-|-|----------------|-:|
