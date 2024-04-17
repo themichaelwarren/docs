@@ -3,8 +3,9 @@ layout: post
 title: MUST BE ALRIGHT
 date: 2014
 parent: Mixes
-image: /assets/images/mixes/must-be-alright.png
+image: /docs/assets/images/mixes/must-be-alright.png
 description: Come clouds of gray on rainy days, no, nothin' seems to bother me
+tags: [brazil, girl groups, doo wop, love]
 nav_order: 2
 ---
 {% include image.html src="/assets/images/mixes/must-be-alright.png" %}

@@ -26,25 +26,45 @@ body {
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: left;
 }
 
 .card {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   width: 300px;
-  margin: 20px;
-  text-align: center;
+  margin: 20px 20px 20px 0px;
+  text-align: left;
+  color: black;
   border-radius: 10px;
   overflow: hidden;
 }
 
 .card img {
   width: 100%;
-  max-width:200px;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
 }
 
 .card h3, .card p {
   margin: 10px;
 }
+
+/* TAGS */
+.tag-container {
+  margin: 0px 0px 0px 10px;
+  text-align: left;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #f4f4f4; /* Light gray background */
+  color: #007bff; /* Bootstrap's primary blue for text, or choose your own */
+  border-radius: 6px; /* Rounded corners */
+  padding: 2px 6px; /* Comfortable padding */
+  margin: 0px 0px 0px 0px;
+  font-size: 0.5em; /* Smaller font size for tag text */
+  font-weight: 600; /* Slightly bolder font to make the tags pop */
+  border: 1px solid #d0d7de; /* Slight border to enhance the "box" effect */
+  text-transform: lowercase; /* Optional: makes all tags lowercase */
+}
+

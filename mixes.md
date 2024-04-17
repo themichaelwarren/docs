@@ -14,8 +14,13 @@ has_children: true
         <div class="card">
           <img src="{{ page.image }}" alt="{{ page.title }}">
           <div class="card-content">
-            <p><b>{{ page.title }}</b></p>
-            <p>{{ page.caption | strip_html | truncatewords: 20 }}</p>
+            <p class="fs-2"><b>{{ page.title }}</b></p>
+            <div class="tag-container">
+              {% for tag in page.tags %}
+                <span class="tag fs-1">{{ tag }}</span>
+              {% endfor %}
+            </div>
+            <p class="fs-1">{{ page.description | strip_html | truncatewords: 15 }}</p>
           </div>
         </div>
       </a>
