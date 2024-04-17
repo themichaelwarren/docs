@@ -14,8 +14,8 @@ has_children: true
         <div class="card">
           <img src="{{ page.image }}" alt="{{ page.title }}">
           <div class="card-content">
-            <h3>{{ page.title }}</h3>
-            <p>{{ page.excerpt | strip_html | truncatewords: 20 }}</p>
+            <p><b>{{ page.title }}</b></p>
+            <p>{{ page.caption | strip_html | truncatewords: 20 }}</p>
           </div>
         </div>
       </a>

@@ -14,14 +14,6 @@ nav_order: 3
 
 ## Once Upon A Time
 
-<ul>
-{% for mix in site.data.mixes %}
-  <li>
-      {{ mix.name }}
-  </li>
-{% endfor %}
-</ul>
-
 |Track|Artist|Title|Time|
 |-|-|----------------|-:|
 |1 | Frank Sinatra | Once Upon a Time | —:— |
