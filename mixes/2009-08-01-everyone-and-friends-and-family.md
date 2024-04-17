@@ -2,9 +2,9 @@
 layout: post
 title: Everyone and Friends and Family
 date: 2009-08-01
-image: /docs/assets/images/mixes/Everyone and Friends and Family.png
+image: /assets/images/mixes/Everyone and Friends and Family.png
 description: Listen up and I'll tell a story about an artist growing old
-tags: [Zimbabwe, friends, family, groove]
+tags: [zimbabwe, friends, family, groove]
 parent: Mixes
 nav_order: 1
 ---
