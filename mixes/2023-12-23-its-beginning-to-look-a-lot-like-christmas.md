@@ -2,6 +2,7 @@
 layout: post
 title: It's Beginning To Look A Lot Like Christmas
 date: 2023-12-23
+image: /assets/images/mixes/it's beginning to look a lot like christmas.jpg
 parent: Mixes
 nav_order: 5
 ---
