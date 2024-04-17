@@ -6,6 +6,7 @@ date: 2018-03-23
 parent: Mixes
 image: /assets/images/mixes/ONCE UPON A TIME.JPG
 description: When the spring is cold, where do robins go?
+tags: [2018, spring, time, birds]
 nav_order: 3
 ---
 {% include image.html src="/assets/images/mixes/ONCE UPON A TIME.JPG" %}

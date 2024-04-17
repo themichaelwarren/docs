@@ -4,7 +4,7 @@ title: Everyone and Friends and Family
 date: 2009-08-01
 image: /assets/images/mixes/Everyone and Friends and Family.png
 description: Listen up and I'll tell a story about an artist growing old
-tags: [zimbabwe, friends, family, groove]
+tags: [2009, friends, family, groove]
 parent: Mixes
 nav_order: 1
 ---
