@@ -2,17 +2,19 @@
 layout: post
 title: Once Upon A Time
 date: 2018-03-23
-parent: Mixes
-image: /assets/images/mixes/ONCE UPON A TIME.JPG
 description: When the spring is cold, where do robins go? What makes winters lonely?
 tags: [2018, spring, time, birds]
-nav_order: 
+image: /assets/images/mixes/ONCE UPON A TIME.JPG
+audio: /assets/mixes/ONCE UPON A TIME.mp3
+parent: Mixes
 ---
-{% include image.html src="/assets/images/mixes/ONCE UPON A TIME.JPG" %}
 
-{% include embed-audio.html src="/assets/mixes/ONCE UPON A TIME.mp3" %}
+![{{page.title}} artwork}]({{ page.image }})
 
-## Once Upon A Time
+{% include embed-audio.html src=page.audio %}
+
+## {{page.title}}
+{{ page.description }}
 
 | Track | Artist                 | Title                 | Time |
 |-------|------------------------|-----------------------|------|

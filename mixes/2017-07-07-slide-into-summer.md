@@ -2,17 +2,19 @@
 layout: post
 title: Slide Into Summer
 date: 2017-07-07
-parent: Mixes
-image: /assets/images/mixes/Slide Into Summer.jpg
 description: While the bluebirds sing their magic song, we will love the summer long
 tags: [2017, summer, bluebirds, grass]
-nav_order: 
+image: /assets/images/mixes/Slide Into Summer.jpg
+audio: /assets/mixes/Slide Into Summer.mp3
+parent: Mixes
 ---
-{% include image.html src="/assets/images/mixes/Slide Into Summer.jpg" %}
 
-{% include embed-audio.html src="/assets/mixes/Slide Into Summer.mp3" %}
+![{{page.title}} artwork}]({{ page.image }})
 
-## Slide Into Summer
+{% include embed-audio.html src=page.audio %}
+
+## {{page.title}}
+{{ page.description }}
 
 | Track | Artist                               | Title                                      | Time  |
 |:------|:-------------------------------------|:-------------------------------------------|------:|

@@ -2,17 +2,19 @@
 layout: post
 title: Everyone and Friends and Family
 date: 2009-08-01
-parent: Mixes
-image: /assets/images/mixes/Everyone and Friends and Family.png
 description: Listen up and I'll tell a story about an artist growing old
 tags: [2009, friends, family, groove]
-nav_order: 
+image: /assets/images/mixes/Everyone and Friends and Family.png
+audio: /assets/mixes/Everyone and Friends and Family.mp3
+parent: Mixes
 ---
-{% include image.html src="/assets/images/mixes/Everyone and Friends and Family.png" %}
 
-{% include embed-audio.html src="/assets/mixes/Everyone and Friends and Family.mp3" %}
+![{{page.title}} artwork}]({{ page.image }})
 
-## Everyone and Friends and Family
+{% include embed-audio.html src=page.audio %}
+
+## {{page.title}}
+{{ page.description }}
 
 | Track | Artist                        | Title                                   | Time  |
 |-------|-------------------------------|-----------------------------------------|-------|

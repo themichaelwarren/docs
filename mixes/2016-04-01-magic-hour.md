@@ -2,17 +2,19 @@
 layout: post
 title: MAGIC HOUR
 date: 2016-04-01
-parent: Mixes
-image: /assets/images/mixes/magic-hour.png
 description: Time has gone inside out.
 tags: [2016, magic, magic, magic]
-nav_order: 
+image: /assets/images/mixes/magic-hour.png
+audio: https://www.dropbox.com/scl/fi/v5z1r4nmjoxa6r6srzipo/magic-hour.mp3?rlkey=740p0ui9t7g4w3sh3eaxvi9qu&raw=1
+parent: Mixes
 ---
-{% include image.html src="/assets/images/mixes/magic-hour.png" %}
 
-{% include embed-audio.html src="https://www.dropbox.com/scl/fi/v5z1r4nmjoxa6r6srzipo/magic-hour.mp3?rlkey=740p0ui9t7g4w3sh3eaxvi9qu&raw=1" %}
+![{{page.title}} artwork}]({{ page.image }})
 
-## MAGIC HOUR
+{% include embed-audio.html src=page.audio %}
+
+## {{page.title}}
+{{ page.description }}
 
 | Track | Artist                         | Title                               | Time |
 |:------|:-------------------------------|:------------------------------------|------|
@@ -21,8 +23,8 @@ nav_order:
 | 3     | Spoon                          | Inside Out                          | —:—  |
 | 4     | Sam Prekop                     | Magic Step                          | —:—  |
 | 5     | Grover Washington Jr.          | Mister Magic                        | —:—  |
-| 6     | Stevie Wonder                  | If It's Magic                      | —:—  |
-| 7     | The Flaming Lips               | In The Morning Of The Magicians    | —:—  |
+| 6     | Stevie Wonder                  | If It's Magic                       | —:—  |
+| 7     | The Flaming Lips               | In The Morning Of The Magicians     | —:—  |
 | 8     | The Beatles                    | Flying                              | —:—  |
 | 9     | Dinah Washington               | It's Magic                          | —:—  |
 | 10    | Julianna Barwick               | The Magic Place                     | —:—  |

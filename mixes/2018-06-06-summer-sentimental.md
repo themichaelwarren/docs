@@ -2,16 +2,19 @@
 layout: post
 title: Summer Sentimental
 date: 2018-06-06
-parent: Mixes
-image: /assets/images/mixes/Summer Sentimental.jpg
 description: If I saw you on the street, would I have you in my dreams tonight?
 tags: [2018, summer, sentimental, light]
+image: /assets/images/mixes/Summer Sentimental.jpg
+audio: /assets/mixes/Summer Sentimental.mp3
+parent: Mixes
 ---
-{% include image.html src="/assets/images/mixes/Summer Sentimental.jpg" %}
 
-{% include embed-audio.html src="/assets/mixes/Summer Sentimental.mp3" %}
+![{{page.title}} artwork}]({{ page.image }})
 
-## SUMMER SENTIMENTAL
+{% include embed-audio.html src=page.audio %}
+
+## {{page.title}}
+{{ page.description }}
 
 | Track | Artist                          | Title                                                                     | Time |
 |:------|:--------------------------------|:--------------------------------------------------------------------------|-----:|
