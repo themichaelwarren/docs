@@ -3,7 +3,7 @@ layout: post
 title: SUMMER SAUNA
 date: 2016-06-01
 description: It's too hot to sleep, but not too hot to dream
-tags: [2018, summer, heat, dreams]
+tags: [2016, summer, heat, dreams]
 image: /assets/images/mixes/SUMMER SAUNA.png
 audio: /assets/mixes/SUMMER SAUNA.mp3
 parent: Mixes

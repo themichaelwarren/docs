@@ -23,7 +23,7 @@ parent: Mixes
 | 3     | Mose Se 'Fan Fan'                 | Molema                                              |   5:24 |
 | 4     | Maria Schneider Jazz Orchestra    | Hang Gliding                                        |  14:58 |
 | 5     | Björn Olsson                      | Anna Norling                                        |  28:08 |
-| 6     | Classics For Relaxation           | Saint-Saëns: Carnival Of The Animals, The Swan      |  30:54 |
+| 6     | Miklós Perényi and Zoltán Kocsis  | Saint-Saëns: Carnival Of The Animals, The Swan      |  30:54 |
 | 7     | Haruka Nakamura                   | Sign                                                |  35:55 |
 | 8     | advantage Lucy                    | my little holiday                                   |  38:00 |
 | 9     | Maria Schneider Jazz Orchestra    | Journey Home                                        |  42:26 |
