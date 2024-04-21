@@ -3,7 +3,7 @@ layout: post
 title: PRIMAVERA ULTIMATA
 date: 2015-04-01
 description: Close your eyes and open your heart to the one who's dreaming of you
-tags: [2015, spring, quiet]
+tags: [2015, spring, pure, quiet]
 image: /assets/images/mixes/PRIMAVERA ULTIMATA.jpg
 audio: /assets/mixes/primavera ultimata.m4a
 parent: Mixes

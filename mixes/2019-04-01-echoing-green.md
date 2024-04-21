@@ -3,7 +3,7 @@ layout: post
 title: Echoing Green
 date: 2019-04-01
 description: It's your young voice that's keeping me holding on
-tags: [2019, birthday, rocks, succulents]
+tags: [2019, spring, rain, time]
 image: /assets/images/mixes/Echoing Green.jpg
 audio: /assets/mixes/ECHOING GREEN.mp3
 parent: Mixes
