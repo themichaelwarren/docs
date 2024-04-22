@@ -7,7 +7,7 @@ tags: [2022, old demo, restoration]
 image: /assets/images/songs/life-is-still-worth-living.jpeg
 audio: /assets/songs/2022-01-29 Life Is Still (Worth Living).mp3
 parent: Songs
-nav_order: 1
+nav_order: 
 ---
 ![{{page.title}} artwork}]({{ page.image }})
 

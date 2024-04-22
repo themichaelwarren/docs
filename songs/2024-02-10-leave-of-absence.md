@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Leave of Absense
+title: Leave of Absence
 date: 2024-02-10
 description: demo sketch for a pre-existing title
 tags: [2024, life, death, taxes]
 image: /assets/images/songs/leave-of-absence.jpg
 audio: /assets/songs/2024-02-10 Leave of Absence v3.mp3
 parent: Songs
-nav_order: 1
+nav_order: 
 ---
 ![{{page.title}} artwork}]({{ page.image }})
 

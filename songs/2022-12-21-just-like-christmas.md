@@ -7,7 +7,7 @@ tags: [2022, cover, christmas]
 image: /assets/images/songs/just-like-christmas.jpeg
 youtubeId: cwjhP2pNMas
 parent: Songs
-nav_order: 1
+nav_order: 
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
