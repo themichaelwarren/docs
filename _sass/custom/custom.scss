@@ -23,53 +23,58 @@ body {
 }
 
 /* MIXES INDEX */
-.card-container {
+.mix-container {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column layout */
+  gap: 20px; /* Gap between grid items */
+}
+
+.mix-item {
+  display: grid;
+  grid-template-columns: auto 1fr; /* Image column and details column */
+  gap: 20px; /* Gap between image and details */
+  background-color: #f9f9f9; /* Light gray background */
+  padding: 10px; /* Padding for inner content */
+}
+
+.mix-thumbnail img {
+  max-width: calc(100% - 10px); /* Set max width for image with margin */
+  max-height: 350px; /* Limiting the maximum height to 400px */
+  margin-right: 5px; /* 5px margin on the right side of the image */
+}
+
+.mix-details {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
+  flex-direction: column;
+  margin-top: auto; /* Align mix details to the bottom of the mix item */
 }
 
-.card {
-  box-shadow: 0 0px 0px rgba(0,0,0,0.1);
-  border: 1px solid #d0d7de;
-  width: 300px;
-  margin: 20px 20px 20px 0px;
-  text-align: left;
-  color: black;
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.card img {
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-}
-
-.card h3, .card p {
-  margin: 10px;
-}
-
-.title-container {
-    min-height: 110px;
-}
-
-/* TAGS */
 .tag-container {
-  margin: 0px 0px 0px 10px;
-  text-align: left;
+  margin-top: 10px; /* Add margin between tags and description */
 }
 
 .tag {
   display: inline-block;
-  background-color: #f4f4f4; /* Light gray background */
-  color: #007bff; /* Bootstrap's primary blue for text, or choose your own */
-  border-radius: 6px; /* Rounded corners */
-  padding: 2px 6px; /* Comfortable padding */
-  margin: 0px 0px 0px 0px;
-  font-size: 0.5em; /* Smaller font size for tag text */
-  font-weight: 600; /* Slightly bolder font to make the tags pop */
-  border: 1px solid #d0d7de; /* Slight border to enhance the "box" effect */
-  text-transform: lowercase; /* Optional: makes all tags lowercase */
+  background-color: #e9ecef;
+  color: #333;
+  border-radius: 5px;
+  padding: 2px 6px;
+  margin-right: 5px;
+  font-size: 0.8em;
 }
 
+@media (max-width: 767px) {
+  .mix-item {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column layout on mobile */
+    gap: 0; /* Remove gap between image and details on mobile */
+  }
+
+  .mix-details {
+    margin-top: 0; /* Remove margin from top */
+  }
+
+  .mix-details h3 {
+    margin-top: 0; /* Remove top margin from h3 within mix-details on mobile */
+  }
+}
