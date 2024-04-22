@@ -8,7 +8,7 @@ image: /assets/images/michael in living room.jpg
 ---
 
 ## Mixes
-click a thumbnail that looks good, or even use the search above and enter a random word or artist
+little time capsules of sound and color 
 
 <div class="mix-container">
   {% assign sorted_pages = site.pages | where: 'dir', '/mixes/' | sort: 'date' | reverse %}

@@ -11,7 +11,7 @@ nav_order: 1
 ---
 ![{{page.title}} artwork}]({{ page.image }})
 
-{% include embed-audio.html src="/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
+{% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
 *{{page.description}}*
