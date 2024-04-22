@@ -2,16 +2,19 @@
 layout: default
 title: Oddball Rising
 date: 2023-02-07
-picture: images/songs/oddball-rising.jpg
+description: Looking back on where we've been and where we're going
+tags: [2023, california, tour]
+image: /assets/images/songs/oddball-rising.jpg
+audio: /assets/songs/2023-01-28 Oddball Rising v3.mp3
 parent: Songs
 nav_order: 1
 ---
-![Oddball Rising artwork](/assets/images/songs/oddball-rising.jpg)
-*Somewhere on the Grapevine out of LA, summer 2007*
+![{{page.title}} artwork}]({{ page.image }})
 
 {% include embed-audio.html src="/assets/songs/2023-01-28 Oddball Rising v3.mp3" %}
 
-## Oddball Rising
+## {{page.title}}
+*{{page.description}}*
 
 ```
 looking in the mirror
