@@ -17,12 +17,11 @@ nav_order:
 
 > This recording was made for a [School of Song](https://schoolofsong.org) workshop with Robin Pecknold.
 > 
-> 
 > I chose the “fixer” prompt and wrote a new bridge for a 2009 demo I found on an old hard drive.
 > 
 > I changed the last note of the chorus melody from the root to the third (G#) which allowed me to modulate from E major the C# major for the bridge. The bridge also modulates down to C major briefly before going to a B7 to modulate back to the original key of E major for one more chorus.
 > 
-> The line “breathe in, life is still worth living” is from a song a former bandmate wrote during high school, which was the inspiration for the original 2009 demo. That friend ran into some trouble and did end up in jail. This song was intended as a kind of meditation on him and our friendship. The new bridge is comprised of bits of lyrics from songs we wrote in a subsequent band together.
+> The line “breathe in, life is still worth living” is from a song a former bandmate wrote during high school, which was the inspiration for the original 2009 demo. That friend ran into some trouble and ended up in jail. This song was intended as a kind of meditation on him and our friendship. The new bridge is comprised of bits of lyrics from songs we wrote while in a band together.
 >
 
 ```
