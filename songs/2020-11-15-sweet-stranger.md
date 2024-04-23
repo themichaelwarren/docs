@@ -2,7 +2,7 @@
 layout: default
 title: Sweet Stranger
 date: 2020-11-15
-description: I saw you walking home from the bookstore
+description: That is not something I was prepared to know
 tags: [2020, demo, hatsukoi four]
 image: /assets/images/songs/sweet-stranger.jpeg
 audio: /assets/songs/2020-11-16 Sweet Stranger v1.mp3

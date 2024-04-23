@@ -2,7 +2,7 @@
 layout: default
 title: Life (Is Still Worth Living)
 date: 2022-01-29
-description: brushing off and completing an old demo
+description: Time to make the most of what is left
 tags: [2022, old demo, restoration]
 image: /assets/images/songs/life-is-still-worth-living.jpeg
 audio: /assets/songs/2022-01-29 Life Is Still (Worth Living).mp3
