@@ -14,7 +14,7 @@ parent: Mixes
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
-{{ page.description }}
+>{{ page.description }}
 
 | Track | Artist                   | Title                                      |   Time |
 |:------|:-------------------------|:-------------------------------------------|-------:|
