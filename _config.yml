@@ -5,6 +5,7 @@ theme: just-the-docs
 url: "https://themichaelwarren.github.io"  # The base hostname & protocol for your site
 baseurl: ""  # the subpath of your site, e.g. /blog
 
+favicon_ico: /favicon.ico
 
 search.button: true
 
