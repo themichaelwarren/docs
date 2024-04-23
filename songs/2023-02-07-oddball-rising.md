@@ -7,7 +7,7 @@ tags: [2023, california, tour]
 image: /assets/images/songs/oddball-rising.jpg
 audio: /assets/songs/2023-01-28 Oddball Rising v3.mp3
 parent: Songs
-nav_order: 1
+nav_order: 
 ---
 ![{{page.title}} artwork}]({{ page.image }})
 
