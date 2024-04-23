@@ -2,7 +2,7 @@
 title: Now
 layout: home
 nav_order: 1
-last_modified_date: 2024-04-09
+last_modified_date: 2024-04-23
 ---
 
 > _"How we spend our days is, of course, how we spend our lives._
@@ -12,9 +12,15 @@ last_modified_date: 2024-04-09
 >_A schedule defends from chaos and whim. It is a net for catching days.”_
 
 
+### 2024-04-23
++ Finally building out the [Songs](/songs) and [Mixes](/mixes) pages
++ Jekyll making more sense, slowly building out custom includes and pages
++ Rehearsing for [advantage Lucy](/bands/advantage-lucy) shows in Tokyo this summer
+
+
 ### 2024-04-09
 + Moving this site from Notion/Super back to GitHhub/Jekyll
-+ Learning about data normalization and database structures
++ Doing a refresher on data normalization and database structures
 + Prepping to rebuild the [honyaku.org](https://honyaku.org){:target="_blank"} translator portal using Xano and Wized v2
 + In the middle of month number three of a big sonwriting binge with my Hatsukoi Four bandmates Jake and Koby
 	+ want to start adding more to [songs](/songs) soon
