@@ -2,7 +2,7 @@
 title: Now
 layout: home
 nav_order: 1
-last_modified_date: 2024-04-23
+last_modified_date: 2024-04-25
 ---
 
 > _"How we spend our days is, of course, how we spend our lives._
@@ -31,5 +31,5 @@ last_modified_date: 2024-04-23
 + Prepping to rebuild the honyaku.org translator portal using Wized v2
 + Enjoying a nice new mix, [It’s Beginning To Look A Lot Like Christmas](/mixes/2023-12-23-its-beginning-to-look-a-lot-like-christmas.html)
 + Reading Harmony by Jiro Asada
-+ Mixing songs for Hatsukoi Four to be released in 2024
++ Mixing songs for [Hatsukoi Four](/bands/hatsukoi-four) to be released in 2024
 + Reassessing my record collection and developing digital listening rituals
