@@ -14,6 +14,7 @@ nav_order:
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
+{% include tags.html src=page.tags %}
 *{{page.description}}*
 
 ```

@@ -14,6 +14,8 @@ nav_order:
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
+{% include tags.html src=page.tags %}
+*{{page.description}}*
 
 >Cover of a beautiful song written by my songwriting partner Max Serota.
 

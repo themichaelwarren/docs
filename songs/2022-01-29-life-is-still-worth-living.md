@@ -14,6 +14,8 @@ nav_order:
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
+{% include tags.html src=page.tags %}
+*{{page.description}}*
 
 > This recording was made for a [School of Song](https://schoolofsong.org) workshop with Robin Pecknold.
 > 

@@ -14,6 +14,7 @@ nav_order:
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
+{% include tags.html src=page.tags %}
 *{{page.description}}*
 
 >Written for a [School of Song](https://schoolofsong.org/){:target="_blank"} workshop with Scott McMicken, this song was pretty much entirely inspired by [the Vsauce video “Why Are We Morbidly Curious?”](https://www.youtube.com/watch?v=ZbdMMI6ty0o){:target="_blank"}

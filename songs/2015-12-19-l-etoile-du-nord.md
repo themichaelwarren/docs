@@ -14,6 +14,8 @@ nav_order:
 {% include embed-audio.html src=page.audio %}
 
 ## {{page.title}}
+{% include tags.html src=page.tags %}
+*{{page.description}}*
 
 >Demo from late 2015. Reflecting on the my life until that point, from Minnesota to California to Japan.
 
