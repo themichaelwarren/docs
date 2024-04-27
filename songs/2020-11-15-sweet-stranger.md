@@ -3,7 +3,7 @@ layout: default
 title: Sweet Stranger
 date: 2020-11-15
 description: That is not something I was prepared to know
-tags: [2020, demo, hatsukoi four]
+tags: [2020, demo, hatsukoi four, strangers]
 image: /assets/images/songs/sweet-stranger.jpeg
 audio: /assets/songs/2020-11-16 Sweet Stranger v1.mp3
 parent: Songs

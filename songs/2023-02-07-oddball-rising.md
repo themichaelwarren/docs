@@ -3,7 +3,7 @@ layout: default
 title: Oddball Rising
 date: 2023-02-07
 description: The game is infinite, so strap on in and hold on tight
-tags: [2023, california, tour]
+tags: [2023, demo, california, tour]
 image: /assets/images/songs/oddball-rising.jpg
 audio: /assets/songs/2023-01-28 Oddball Rising v3.mp3
 parent: Songs

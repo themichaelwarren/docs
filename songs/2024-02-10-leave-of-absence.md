@@ -3,7 +3,7 @@ layout: default
 title: Leave of Absence
 date: 2024-02-10
 description: First you become someone, then you become nobody
-tags: [2024, life, death, taxes]
+tags: [2024, demo, life, death, taxes]
 image: /assets/images/songs/leave-of-absence.jpg
 audio: /assets/songs/2024-02-10 Leave of Absence v3.mp3
 parent: Songs
