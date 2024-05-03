@@ -11,6 +11,10 @@ last_modified_date: 2024-04-25
 >
 >_A schedule defends from chaos and whim. It is a net for catching days.”_
 
+### 2024-05-03
++ It is Golden Week here in Japan, headed to Aomori
++ We've pivoted with the [honyaku.org](https://honyaku.org){:target="_blank"} system and are now building on Xano and WeWeb
++ Working on building out a Projects page here for detailing my tour management and event planning experience 
 
 ### 2024-04-23
 + Finally building out the [Songs](/songs) and [Mixes](/mixes) pages
