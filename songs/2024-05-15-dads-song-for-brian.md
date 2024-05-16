@@ -3,7 +3,7 @@ layout: default
 title: Dad's Song for Brian
 date: 2024-05-15
 description: If I could find a way to take back what I said 
-tags: [2024, demo, alternative history, harmonies]
+tags: [2024, demo, alternative history]
 image: /assets/images/songs/dads-song-for-brian.jpg
 audio: /assets/songs/2024-05-16 Dad's Song for Brian - v2.mp3
 parent: Songs
@@ -18,15 +18,11 @@ nav_order:
 *{{page.description}}*
 
 ```
-June twenty
-Forty two
-Centinela
-Hospital Medical Center
+June 20, 1942
+Centinela Hospital Medical Center
 
-Your perfect pitch
-Your eyes of blue
-Me and Audree
-Were so proud of you
+Your perfect pitch, your eyes of blue
+Me and Audree were so proud of you
 
 --------------------
 
@@ -37,20 +33,14 @@ A way to forgive your dad
 
 --------------------
 
-You grew up fast
-You made the scene
-At school functions
-Accordion lessons
+You grew up fast, you made the scene
+At school functions, accordion lessons
 
-You found your voice
-You harmonized
-The Four Freshmen
-Your first obsession
+You found your voice, you harmonized
+The Four Freshmen, your first obsession
 
-You proved me wrong
-You found real joy
-So love and mercy
-To you my boy
+You proved me wrong, you found real joy
+So love and mercy to you my boy
  
 --------------------
 
