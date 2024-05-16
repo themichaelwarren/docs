@@ -9,7 +9,7 @@ audio: /assets/songs/2015-12-19-l-etoile-du-nord.mp3
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }})
 
 {% include embed-audio.html src=page.audio %}
 

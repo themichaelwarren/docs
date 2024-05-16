@@ -9,7 +9,7 @@ audio: /assets/songs/2017-05-31-you-are-on-a-journey.mp3
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }})
 
 {% include embed-audio.html src=page.audio %}
 

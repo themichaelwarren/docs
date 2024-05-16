@@ -4,12 +4,12 @@ title: Dad's Song for Brian
 date: 2024-05-15
 description: If I could find a way to take back what I said 
 tags: [2024, demo, alternative history]
-image: /assets/images/songs/dads-song-for-brian.jpg
-audio: /assets/songs/2024-05-16 Dad's Song for Brian - v3.mp3
+image: /assets/images/songs/dads-song-for-brian.jpeg
+audio: /assets/songs/2024-05-16 Dad's Song for Brian - v6.mp3
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }})
 
 {% include embed-audio.html src=page.audio %}
 

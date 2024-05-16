@@ -9,7 +9,7 @@ audio: /assets/songs/2024-02-10 Leave of Absence v3.mp3
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }})
 
 {% include embed-audio.html src=page.audio %}
 

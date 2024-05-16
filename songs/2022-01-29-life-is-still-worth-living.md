@@ -9,7 +9,7 @@ audio: /assets/songs/2022-01-29 Life Is Still (Worth Living).mp3
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }})
 
 {% include embed-audio.html src=page.audio %}
 
