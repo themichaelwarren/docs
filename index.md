@@ -11,6 +11,12 @@ last_modified_date: 2024-04-25
 >
 >_A schedule defends from chaos and whim. It is a net for catching days.”_
 
+### 2024-07-18
++ Hot summer days here in Tokyo
++ Good time to be a Phish fan — [new album](https://album.link/i/1746984616){:target="_blank"}, [Fallon](https://youtu.be/NyNpEcNbZM4?si=K9n8lzeQBlQxUc7m){:target="_blank"}, [Tiny Desk](https://youtu.be/ad8bvpdoEqE?si=x1K4hW-LokFjzEyS){:target="_blank"}, [interviews](https://www.rollingstone.com/music/music-features/trey-anastasio-phish-jerry-garcia-new-album-drugs-1235053957/){:target="_blank"}, [interviews](https://www.wtfpod.com/podcast/episode-1556-trey-anastasio){:target="_blank"}, [interviews](https://www.cbc.ca/arts/q/what-s-the-secret-to-phish-s-success-trey-anastasio-says-it-s-their-40-year-friendship-1.7260324){:target="_blank"}, and [summer tour](https://phish.com/tours/summer-2024/){:target="_blank"} starts tomorrow
++ Big changes happening at [honyaku.org](https://honyaku.org){:target="_blank"}, system rebuild still underway using Xano and WeWeb
++ New birthday mix up for my good pal, Max "Says" Serota — go have a listen to [ROMP 42 - So I Says To The Guy](/mixes/2024-07-19-romp-42) 
+
 ### 2024-05-03
 + It is Golden Week here in Japan, headed to Aomori
 + We've pivoted with the [honyaku.org](https://honyaku.org){:target="_blank"} system and are now building on Xano and WeWeb
