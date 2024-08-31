@@ -5,7 +5,7 @@ date: 2024-09-01
 description: A cooking mix
 tags: [2024, birthday, cooking]
 image: /assets/images/mixes/2024-09-01-switchin-in-the-kitchen.jpg
-audio: /assets/mixes/2024-09-01-switchin-in-the-kitchen.mp3
+audio: https://www.dropbox.com/scl/fi/rpabz1fk6mlmypcew07rq/2024-09-01-switchin-in-the-kitchen.mp3?rlkey=iygysu1369fmaf6yifc9ukt4q&st=mnzaupuf&raw=1
 parent: Mixes
 ---
 
