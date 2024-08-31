@@ -11,6 +11,14 @@ last_modified_date: 2024-04-25
 >
 >_A schedule defends from chaos and whim. It is a net for catching days.”_
 
+### 2024-08-31
++ Summer just about over here in Tokyo
++ It's a big birthday week here, and there are two new mixes:
+  + [WORKIN' ON A DREAM](/mixes/2024-08-30-workin-on-a-dream), for [Adrian](https://www.adrianhogan.com){:target="_blank"}
+  + [Switchin' in the Kitchen](/mixes/2024-09-01-switchin-in-the-kitchen), for Dave
++ Been in the studio with Max recording drums for some upcoming [Hatsukoi Four](/bands/hatsukoi-four) releases
++ Woke up to a lovely video birthday card from friends all around the world. It was a great reminder that I need to stay in touch with all of the great people that I know. Love to everyone. 
+
 ### 2024-07-18
 + Hot summer days here in Tokyo
 + Good time to be a Phish fan — [new album](https://album.link/i/1746984616){:target="_blank"}, [Fallon](https://youtu.be/NyNpEcNbZM4?si=K9n8lzeQBlQxUc7m){:target="_blank"}, [Tiny Desk](https://youtu.be/ad8bvpdoEqE?si=x1K4hW-LokFjzEyS){:target="_blank"}, [interviews](https://www.rollingstone.com/music/music-features/trey-anastasio-phish-jerry-garcia-new-album-drugs-1235053957/){:target="_blank"}, [interviews](https://www.wtfpod.com/podcast/episode-1556-trey-anastasio){:target="_blank"}, [interviews](https://www.cbc.ca/arts/q/what-s-the-secret-to-phish-s-success-trey-anastasio-says-it-s-their-40-year-friendship-1.7260324){:target="_blank"}, and [summer tour](https://phish.com/tours/summer-2024/){:target="_blank"} starts tomorrow
