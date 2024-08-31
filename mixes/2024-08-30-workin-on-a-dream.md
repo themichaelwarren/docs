@@ -9,7 +9,7 @@ audio: https://www.dropbox.com/scl/fi/ai8gvt64iioajsrtcqhec/2024-08-30-workin-on
 parent: Mixes
 ---
 
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork}]({{ page.image }}){: .art }
 
 {% include embed-audio.html src=page.audio %}
 

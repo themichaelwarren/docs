@@ -9,7 +9,7 @@ audio: https://www.dropbox.com/scl/fi/rpabz1fk6mlmypcew07rq/2024-09-01-switchin-
 parent: Mixes
 ---
 
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork}]({{ page.image }}){: .art }
 
 {% include embed-audio.html src=page.audio %}
 

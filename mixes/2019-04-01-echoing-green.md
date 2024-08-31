@@ -9,7 +9,7 @@ audio: /assets/mixes/ECHOING GREEN.mp3
 parent: Mixes
 ---
 
-![{{page.title}} artwork}]({{ page.image }})
+![{{page.title}} artwork}]({{ page.image }}){: .art }
 
 {% include embed-audio.html src=page.audio %}
 
