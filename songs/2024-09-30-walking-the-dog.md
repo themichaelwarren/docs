@@ -9,7 +9,7 @@ audio: https://www.dropbox.com/scl/fi/r2wgrieukeyp3xgnk4p74/2024-09-30-walking-t
 parent: Songs
 nav_order: 
 ---
-![{{page.title}} artwork]({{ page.image }})
+![{{page.title}} artwork]({{ page.image }}){: .art }
 
 {% include embed-audio.html src=page.audio %}
 
