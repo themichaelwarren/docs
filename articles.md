@@ -4,6 +4,7 @@ title: Good Reads
 nav_order: 6
 ---
 
++ [Kevin Kelly — Better THan Free](https://kk.org/thetechnium/better-than-fre/){:target="_blank"}
 + [Grateful Dead Concerts Are Like Baseball Games ](http://www.levity.com/gans/baseball.html){:target="_blank"}
 + [How to Know If You're Living in a Doom Loop](https://www.honest-broker.com/p/how-to-know-if-youre-living-in-a){:target="_blank"}
 + [How We'll Forget John Lennon](https://web.archive.org/web/20220218084256/https://nautil.us/how-well-forget-john-lennon-7906/){:target="_blank"}
