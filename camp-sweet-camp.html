@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Camp Sweet Camp</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'IBM Plex Mono', sans-serif;
+            background-color: #f4e4bc;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            height: 100vh; /* Use full height of the viewport */
+            overflow: hidden;
+        }
+
+        .svg-container {
+            flex: 1; /* 50% of the width */
+            background-color: #f4e4bc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .svg-container svg {
+            width: 90%;
+            height: auto;
+        }
+
+        .details {
+            flex: 1; /* 50% of the width */
+            background-color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start; /* Align items to the left */
+            padding: 20px 60px; /* Add wider margins for centered text column */
+            overflow-y: auto; /* Allow scrolling for long text */
+        }
+
+        .details h2 {
+            font-size: 1.5rem;
+            color: #333333;
+            margin-bottom: 1rem;
+            text-align: left; /* Ensure the title is also left-aligned */
+            width: 100%;
+        }
+
+        .details p {
+            font-size: 0.9rem;
+            color: #555555;
+            line-height: 1.5;
+            text-align: left;
+            width: 100%; /* Ensure the text stays left-aligned */
+        }
+
+        @media screen and (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                height: auto; /* Let content expand */
+            }
+
+            .svg-container {
+                height: auto;
+                padding: 10px;
+            }
+
+            .details {
+                height: auto;
+                padding: 20px 20px; /* Reduce padding on smaller screens */
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .details h2 {
+                font-size: 1.25rem;
+            }
+
+            .details p {
+                font-size: 0.8rem;
+            }
+
+            .details {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- SVG Section -->
+        <div class="svg-container">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450" preserveAspectRatio="xMidYMid meet">
+    <!-- Background with Border -->
+    <rect x="20" y="20" width="410" height="410" fill="#faf3e3" stroke="#ffffff" stroke-width="20" />
+
+    <!-- Guitar -->
+    <g>
+        <path d="M80 60 Q70 50, 60 60 L50 160 Q70 180, 90 160 L80 60" fill="#d35f5f" />
+        <rect x="56" y="50" width="28" height="10" fill="#8b4513" />
+        <line x1="64" y1="80" x2="76" y2="80" stroke="#8b4513" stroke-width="2" />
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values="-3,70,110;3,70,110;-3,70,110"
+            dur="5s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Trumpet -->
+    <g>
+        <path d="M260 100 C280 100, 300 80, 320 90 L330 80 L320 70 L310 80 C290 70, 270 90, 250 90 Z" fill="#ffd700" />
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values="-2,290,85;2,290,85;-2,290,85"
+            dur="6s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Camping Tent -->
+    <g>
+        <path d="M120 300 L180 200 L240 300 Z" fill="#2f4f4f" />
+        <path d="M140 300 L180 220 L220 300 Z" fill="#556b2f" />
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values="-1,180,280;1,180,280;-1,180,280"
+            dur="8s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Lantern -->
+    <g>
+        <rect x="280" y="240" width="20" height="30" fill="#8b4513" />
+        <path d="M270 270 L310 270 L300 300 L280 300 Z" fill="#daa520" />
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values="-3,290,255;3,290,255;-3,290,255"
+            dur="5s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Campfire -->
+    <g>
+        <path d="M80 360 C90 340, 100 350, 110 360 L100 380 L90 380 Z" fill="#ff4500">
+            <animate
+                attributeName="fill"
+                values="#ff4500;#ff6600;#ff4500"
+                dur="2s"
+                repeatCount="indefinite" />
+        </path>
+        <line x1="70" y1="380" x2="120" y2="380" stroke="#8b4513" stroke-width="4" />
+    </g>
+
+    <!-- Music Notes -->
+    <g>
+        <circle cx="300" cy="160" r="8" fill="#2f4f4f" />
+        <path d="M300 160 L300 130" stroke="#2f4f4f" stroke-width="4" />
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0,0;0,-20;0,0"
+            dur="7s"
+            repeatCount="indefinite" />
+    </g>
+    <g>
+        <circle cx="340" cy="180" r="8" fill="#2f4f4f" />
+        <path d="M340 180 L340 150" stroke="#2f4f4f" stroke-width="4" />
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0,0;0,-25;0,0"
+            dur="9s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Pine Tree -->
+    <g>
+        <path d="M340 340 L360 280 L380 340 Z" fill="#228b22" />
+        <rect x="354" y="340" width="12" height="20" fill="#8b4513" />
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values="-2,360,340;2,360,340;-2,360,340"
+            dur="7s"
+            repeatCount="indefinite" />
+    </g>
+
+    <!-- Snowflakes -->
+    <g>
+        <path d="M40 40 L60 40 M50 30 L50 50 M44 34 L56 46 M56 34 L44 46"
+            stroke="#2f4f4f" stroke-width="2">
+            <animate
+                attributeName="stroke-opacity"
+                values="1;0.5;1"
+                dur="3s"
+                repeatCount="indefinite" />
+        </path>
+    </g>
+    <g>
+        <path d="M240 240 L260 240 M250 230 L250 250 M244 234 L256 246 M256 234 L244 246"
+            stroke="#2f4f4f" stroke-width="2">
+            <animate
+                attributeName="stroke-opacity"
+                values="1;0.5;1"
+                dur="4s"
+                repeatCount="indefinite" />
+        </path>
+    </g>
+</svg>
+        </div>
+
+        <!-- Details Section -->
+        <div class="details">
+            <h2>Camp Sweet Camp</h2>
+            <audio controls>
+                <source src="your-music-file.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <p>
+                find your light<br>
+                and let it shine on bright<br>
+                a sun to shine on everyone<br>
+                a song, a wish<br>
+                that kind of thing<br>
+                it's a gift<br>
+                it gets better<br>
+                the more people you share it with<br>
+                <br>
+                so tonight<br>
+                let your heart be light<br>
+                every song earns a stamp<br>
+                at camp sweet camp<br>
+                <br>
+                it's not the bow<br>
+                not the tree or mistletoe<br>
+                it's an ode<br>
+                of everylasting hope<br>
+                that the words we sing<br>
+                slowly grow into a stream<br>
+                get stronger<br>
+                flow into our dreams<br>
+                <br>
+                so raise a flag<br>
+                grab your sleeping bag<br>
+                every song lights a lamp<br>
+                at camp sweet camp<br>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>
