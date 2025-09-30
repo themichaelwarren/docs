@@ -11,6 +11,22 @@ last_modified_date: 2024-04-25
 >
 >_A schedule defends from chaos and whim. It is a net for catching days.”_
 
+### 2025-06-12
+
+RIP Brian Wilson
+
+Last year, as a songwriting exercise, I wrote a song from the perspective of Brian Wilson’s dad, Murry Wilson, in an alternative timeline where he never stopped making music, and even had the courage to apologize to Brian for all of the pain he had caused. (I’ll link to the demo in my profile)
+
+It was emotional to read through Wikipedia and learn about Brian Wilson’s childhood (finding out that we both love the Four Freshman) and reflect on his relationship with his dad, and then try to “become” his dad and write a song that imagined him paying attention to Brian and his interests, and even asking for forgiveness from his son.
+
+Love and mercy, that’s what we all need tonight.
+
+Rest easy, Brian Wilson.
+
+Thank you for everything.  
+
+[Dad's Song For Brian](/songs/2024-05-15-dads-song-for-brian)
+
 ### 2024-08-31
 + Summer just about over here in Tokyo
 + It's a big birthday week here, and there are two new mixes:
