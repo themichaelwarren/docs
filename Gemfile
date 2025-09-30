@@ -1,3 +1,5 @@
+ruby '~> 3.1.0'
+
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
