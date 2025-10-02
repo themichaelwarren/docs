@@ -3,7 +3,7 @@ layout: post
 title: Heart of Gold
 date: 2015-06-01
 description: heart and soul, I beg to be adored — yes, and I lost control and tumbled overboard, gladly — that magic night we kissed, there in the moon mist
-tags: [2015, france, ancient egypt, oldies]
+tags: [2015, heart, gold, oldies]
 image: /assets/images/mixes/HEART-OF-GOLD.jpeg
 audio: /assets/mixes/HEART OF GOLD.m4a
 parent: Mixes
