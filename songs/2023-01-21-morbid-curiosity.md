@@ -4,7 +4,7 @@ title: Morbid Curiosity
 date: 2023-01-21
 description: What can I say, it makes me feel strong, even if I know it's wrong
 tags: [2023, demo, norepinephrine]
-image: /assets/images/songs/morbid-curiosity.jpg
+image: /assets/images/songs/morbid-curiosity.png
 audio: /assets/songs/2023-01-21 Morbid Curiosity.mp3
 parent: Songs
 nav_order: 
